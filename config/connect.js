@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 
-mongoose.connect('mongodb+srv://livehazem:RUbzI1efhj24OCXt@meanapp.awewo.mongodb.net/?retryWrites=true&w=majority&appName=meanApp')
+mongoose.connect('mongodb+srv://hazemdr:hazem2024H@stack.3hkee.mongodb.net/?retryWrites=true&w=majority&appName=stack')
     .then(
         ()=>{
             console.log('connected');
